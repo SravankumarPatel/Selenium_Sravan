@@ -5,7 +5,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class Sbi_Test {
-	WebDriver driver;
+	 WebDriver driver;
 	public void Login() {
 		System.setProperty("webdriver.chrome.driver", "C:\\Users\\Sravan\\Downloads\\chromedriver.exe");
 		driver=new ChromeDriver();

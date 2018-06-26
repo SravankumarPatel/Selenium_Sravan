@@ -1,8 +1,8 @@
 package junit;
 
-import static org.junit.Assert.*;
+//import static org.junit.Assert.*;
 
-import java.sql.Driver;
+//import java.sql.Driver;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;

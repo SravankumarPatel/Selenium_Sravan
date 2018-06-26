@@ -1,6 +1,6 @@
 package junit;
 
-import static org.junit.Assert.*;
+//import static org.junit.Assert.*;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
